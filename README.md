@@ -30,6 +30,6 @@ Requires [uv](https://docs.astral.sh/uv/):
 
 Dependencies: NumPy, SciPy, Matplotlib.
 
-## Authors
 
-Arche & Bartłomiej Mielcarz
+
+
